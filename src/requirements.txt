@@ -1,6 +1,0 @@
-pandas==1.5.3
-numpy==1.24.3
-torch==2.2.0
-scikit-learn>=1.2,<1.5 
-networkx==3.2.1
-rdflib==6.3.2
