@@ -1,0 +1,9 @@
+ID,Relation
+0,Likes
+1,Genre_BelongsTo
+2,StarredBy
+3,DirectedBy
+4,Genre_Contains
+5,StarsIn
+6,Co-starsWith
+7,Directs
